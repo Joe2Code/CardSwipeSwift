@@ -1,8 +1,5 @@
 //
 //  CornerRadiusShadowed.swift
-//  ALensStory
-//
-//  Created by Joe's Computer on 7/30/17.
 //  Copyright © 2017 Joseph Mennemeier. All rights reserved.
 //
 
